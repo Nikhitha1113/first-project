@@ -1,4 +1,5 @@
 # first-project
 this is my first git repository
 <br>
-im nikhitha
+im nikhitha im from mysore
+
